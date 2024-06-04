@@ -1,5 +1,7 @@
-##Patient Monitoring System
-#Project Description
+# Patient Monitoring System
+
+## Project Description
+
 The Patient Monitoring System is designed to ensure the safety and health of elderly and patients by using computer vision and machine learning techniques. Inspired by a prior computer vision project dealing with images of human postures like falling and sneezing, this system aims to monitor individuals in real-time using a camera.
 
 Our system focuses on detecting various medical conditions, such as falls, persistent coughing, and other physical abnormalities. When an emergency, such as a fall, is detected, an alert is immediately sent to the responsible person. Similarly, continuous coughing triggers a warning about a possible abnormal condition.
